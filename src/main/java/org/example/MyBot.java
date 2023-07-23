@@ -15,7 +15,7 @@ import java.util.List;
 public class MyBot extends TelegramLongPollingBot {
 
     // HI Ravil!!!!!!!
-    //Assalomu alaykum
+    //Assalomu alaykum!
 
     @Override
     public String getBotUsername() {
